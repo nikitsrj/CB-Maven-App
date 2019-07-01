@@ -29,7 +29,7 @@
 					<option>The Plague</option>
 				</optgroup>
 				<optgroup label="Orwell">
-					<option>Animal Farm</option>
+					<option>AWS Automation Cookbook</option>
 					<option>Nineteen Eighty-Four</option>
 					<option>Down and Out in Paris and London</option>
 				</optgroup>
