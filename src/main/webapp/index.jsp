@@ -17,7 +17,7 @@
 		}
 	</style>
 </head>
-<body bgcolor="#0333A0">
+<body bgcolor="#CD8E21">
 	<form action="someplace.php">
 		<fieldset>
 			<legend>Favourite book</legend>
